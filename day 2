@@ -1,1 +1,3 @@
-
+# What is Client–Server Architecture?
+Client–Server Architecture is a model where a client requests services or data, and a server provides them. The client can be a web browser, mobile app, or desktop application, while the server stores and processes data. 
+- This architecture is widely used in websites, applications, and online services.
