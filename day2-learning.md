@@ -37,6 +37,6 @@
 -  HTTPS is recommended for secure communication and online transactions.
 
 # 9. Basic Request–Response Flow (Login Example)
--When a user enters login credentials, the browser sends a POST request to the server. 
-The server verifies the username and password. If valid, it creates a session or token and sends a success response. 
-The user is then granted access to the application.
+- When a user enters login credentials, the browser sends a POST request to the server. 
+- the server verifies the username and password. If valid, it creates a session or token and sends a success response. 
+- The user is then granted access to the application.
