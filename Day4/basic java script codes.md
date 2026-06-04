@@ -55,3 +55,20 @@ function countVowelsAndReverseString(word) {
 
 countVowelsAndReverseString("javascript");
 
+# calculate the percentage out of 500
+function calculatepercentage(marks) {
+
+    let percentages = [];
+
+    for (let i = 0; i < marks.length; i++) {
+
+        let percentage = (marks[i] / 500) * 100;
+
+        percentages.push(percentage + "%");
+    }
+
+    console.log(percentages);
+}
+
+calculatepercentage([412, 499,400]);
+
